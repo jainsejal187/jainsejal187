@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <b>Currently:</b> Virtual Data Analyst Intern at <b>Apana Time Tech</b> and <b>DataX Labs</b> 🧠
+  <b>Currently:</b> Virtual Data Analyst Intern at <b>Apana Time Tech</b> 🧠
 </p
 
 <h2 align="center"></h2>
