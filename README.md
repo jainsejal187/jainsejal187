@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  🎓 MBA Student at <b>Chandigarh University</b> (Correspondence)<br>
   📊 Data Analytics Learner at <b>Sharpener</b><br>
   💡 Passionate about turning data into clear, visual insights and actionable stories.<br>
 </p>
